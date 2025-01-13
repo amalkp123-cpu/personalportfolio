@@ -354,29 +354,7 @@ footer ul li a{
     header .menu{
         display: block;
     }
-    .nav-link{
-        position: absolute;
-        top: 100%;
-        margin-top: 1rem;
-        width: 100%;
-        padding: 1rem;
-        color: white;
-        display: flex;
-        text-align: center;
-        flex-direction: column;
-        background-color: rgb(0, 0,0, 0.9);
-        border-radius: 3rem;
-        display: none;
-
-    }.nav-link li{
-        margin-top: 1.5rem;
-        padding: 1rem;
-
-
-    }
-    .nav-link :active{
-        display: block;
-    }
+    
     header{
         padding: 1rem 5rem;
         gap: 8rem;
